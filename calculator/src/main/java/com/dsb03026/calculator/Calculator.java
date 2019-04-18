@@ -1,4 +1,4 @@
-package com.myname.calculator;
+package com.dsb03026.calculator;
 import org.springframework.stereotype.Service;
 @Service
 public class Calculator {
